@@ -1,0 +1,28 @@
+{
+  "name": "vercel-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "screenshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphilius/vercel-puppeteer.git"
+  },
+  "keywords": [
+    "vercel",
+    "puppeteer",
+    "screenshot"
+  ],
+  "author": "Ralphilius (npt.ralph@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ralphilius/vercel-puppeteer/issues"
+  },
+  "homepage": "https://github.com/ralphilius/vercel-puppeteer#readme",
+  "dependencies": {
+    "chrome-aws-lambda": "^3.0.4",
+    "puppeteer-core": "^3.0.4"
+  }
+}
